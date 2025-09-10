@@ -139,13 +139,13 @@ print(f"Wellness improvement: +{results['improvement']:.1f} points")
 
 ## 📊 Visualizations
 
-![Correlation Heatmap](images/correlation_heatmap.png)
+![Correlation Heatmap](images/correlation_heatmap.png.png)
 *Complex correlation patterns in wellness data*
 
-![Feature Importance](images/feature_importance.png) 
+![Feature Importance](images/feature_importance.png.png) 
 *Key factors affecting wellness scores*
 
-![Optimization Results](images/optimization_results.png)
+![Optimization Results](images/optimization_results.png.png)
 *Before vs after wellness optimization*
 
 ## 🤝 Contributing

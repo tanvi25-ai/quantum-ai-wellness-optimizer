@@ -2,9 +2,10 @@
 
 A quantum-inspired machine learning system for personalized wellness optimization that achieves **85.5% prediction accuracy** and delivers **+10.3 wellness score improvements** through actionable lifestyle recommendations.
 
-![Project Banner](images/model_comparison.png)
+![Project Banner](images/Model_Comparision.png.png)
 
 ## 🎯 Project Overview
+
 
 This project demonstrates practical applications of quantum-inspired machine learning in healthcare, combining classical AI baselines with quantum optimization techniques to solve complex lifestyle personalization problems.
 
